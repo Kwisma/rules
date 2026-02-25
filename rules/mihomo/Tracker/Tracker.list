@@ -50,6 +50,8 @@ http://1337.abcvg.info/announce
 
 http://1337.abcvg.info/announce+108
 
+http://138.124.183.78:6969/announce
+
 http://140.235.237.23:6969/announce
 
 http://140.82.21.192:8080/announce
@@ -75,6 +77,8 @@ http://156.234.201.18/announce
 http://157.90.169.123/announce
 
 http://158.101.137.177:6969/announce
+
+http://159.195.43.181:6969/announce
 
 http://159.69.65.157:6969/announce
 
@@ -184,13 +188,13 @@ http://211.20.122.47:6969/announce
 
 http://211.22.29.93/announce
 
+http://211.75.205.187:6969/announce
+
 http://211.75.205.188/announce
 
 http://211.75.205.189/announce
 
 http://211.75.210.221/announce
-
-http://211.75.210.221:6969/announce
 
 http://211.75.29.254:6969/announce
 
@@ -205,6 +209,8 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 
 http://220.130.15.30:6969/announce
+
+http://34.66.57.33:11450/announce
 
 http://34.66.57.33:2710/announce
 
@@ -304,7 +310,7 @@ http://60-fps.org/bt/announce.php
 
 http://60-fps.org/bt:80/announce.php
 
-http://60.249.37.20:6969/announce
+http://60.249.37.20/announce
 
 http://61.216.109.95:6969/announce
 
@@ -938,8 +944,6 @@ http://tr.nyacat.pw/announce
 
 http://tr1.aag.moe:2095/announce
 
-http://tracker-rh.zhuqiy.eu.org/announce
-
 http://tracker-udp.anirena.com/announce
 
 http://tracker-udp.gbitt.info/announce
@@ -999,6 +1003,8 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.darkness.services:6969/announce
 
 http://tracker.ddunlimited.net:6969/announce
 
@@ -1756,8 +1762,6 @@ udp://101.99.94.187:6969/announce
 
 udp://103.122.21.50:6969/announce
 
-udp://103.251.166.126:6969/announce
-
 udp://104.131.98.232:6969/announce
 
 udp://104.143.10.186:8000/announce
@@ -1795,6 +1799,8 @@ udp://152.249.214.23:6969/announce
 udp://156.234.201.18:80/announce
 
 udp://158.101.161.60:3131/announce
+
+udp://159.195.43.181:6969/announce
 
 udp://161.97.67.210:6969/announce
 
@@ -1846,6 +1852,8 @@ udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
 
+udp://208.83.20.20:6969/announce
+
 udp://209.126.11.233:6969/announce
 
 udp://209.141.59.16:6969/announce
@@ -1853,8 +1861,6 @@ udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
-
-udp://211.75.210.221:6969/announce
 
 udp://211.75.29.254:6969/announce
 
@@ -1865,8 +1871,6 @@ udp://217.30.10.77:6969/announce
 udp://23.134.88.9:6969/announce
 
 udp://23.137.251.45:6969/announce
-
-udp://23.175.184.30:23333/announce
 
 udp://31.38.161.123:6969/announce
 
@@ -1957,8 +1961,6 @@ udp://89.36.216.8:6969/announce
 udp://91.186.213.204:6969/announce
 
 udp://91.211.5.21:6969/announce
-
-udp://91.216.110.53:451/announce
 
 udp://93.104.214.40:6969/announce
 

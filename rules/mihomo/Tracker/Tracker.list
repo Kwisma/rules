@@ -38,8 +38,6 @@ http://116.9.207.198:6969/announce
 
 http://116.9.207.226:6969/announce
 
-http://117.72.34.150:6969/announce
-
 http://119.28.71.45:8080/announce
 
 http://129.146.193.240:6699/announce
@@ -85,8 +83,6 @@ http://163.172.209.40/announce
 http://163.172.29.130/announce
 
 http://167.235.245.209/announce
-
-http://167.253.78.20:8080/announce
 
 http://171.104.110.193:6969/announce
 
@@ -190,13 +186,11 @@ http://211.22.29.93/announce
 
 http://211.75.205.188/announce
 
-http://211.75.205.188:6969/announce
-
 http://211.75.205.189/announce
 
-http://211.75.205.189:6969/announce
-
 http://211.75.210.221/announce
+
+http://211.75.210.221:6969/announce
 
 http://211.75.29.254:6969/announce
 
@@ -307,6 +301,8 @@ http://54.39.98.124/announce
 http://60-fps.org/bt/announce.php
 
 http://60-fps.org/bt:80/announce.php
+
+http://60.249.37.20:6969/announce
 
 http://61.216.109.95:6969/announce
 
@@ -1412,8 +1408,6 @@ https://alpha.torrenttracker.nl/announce
 
 https://api.ipv4online.uk/announce
 
-https://bdremux.club/announce
-
 https://bittorrent.gongt.net/announce
 
 https://bittracker.nekosunevr.co.uk/announce
@@ -1762,6 +1756,8 @@ udp://10.rarbg.com:6969/announce
 
 udp://103.122.21.50:6969/announce
 
+udp://103.251.166.126:6969/announce
+
 udp://104.131.98.232:6969/announce
 
 udp://104.143.10.186:8000/announce
@@ -1780,19 +1776,17 @@ udp://11.rarbg.com:80/announce
 
 udp://119.28.71.45:8080/announce
 
-udp://132.226.6.145:6969/announce
-
 udp://135.125.106.92:6969/announce
 
 udp://135.125.236.64:6969/announce
-
-udp://144.126.245.19:6969/announce
 
 udp://144.91.88.22:6969/announce
 
 udp://147.45.77.75:6969/announce
 
 udp://148.251.53.72:6969/announce
+
+udp://152.89.29.128:6969/announce
 
 udp://156.234.201.18:80/announce
 
@@ -1826,6 +1820,8 @@ udp://185.181.60.155:80/announce
 
 udp://185.181.60.67:80/announce
 
+udp://185.189.13.108:6969/announce
+
 udp://185.216.179.62:25/announce
 
 udp://185.230.4.150:1337/announce
@@ -1835,8 +1831,6 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 
 udp://192.95.46.115:6969/announce
-
-udp://193.148.251.93:6969/announce
 
 udp://193.187.90.12:6969/announce
 
@@ -1864,7 +1858,7 @@ udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
 
-udp://211.75.205.189:6969/announce
+udp://211.75.210.221:6969/announce
 
 udp://211.75.29.254:6969/announce
 
@@ -1878,11 +1872,7 @@ udp://23.134.88.9:6969/announce
 
 udp://23.137.251.45:6969/announce
 
-udp://23.157.120.14:6969/announce
-
 udp://23.175.184.30:23333/announce
-
-udp://31.38.161.123:6969/announce
 
 udp://34.66.57.33:1337/announce
 
@@ -1909,6 +1899,8 @@ udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 
 udp://44.30.4.70:6969/announce
+
+udp://45.134.88.121:6969/announce
 
 udp://45.9.60.30:6969/announce
 
@@ -1957,6 +1949,8 @@ udp://78.40.116.12:6969/announce
 udp://81.230.84.201:6969/announce
 
 udp://82.65.115.10:6969/announce
+
+udp://84.54.51.78:6969/announce
 
 udp://88.80.22.67:2710/announce
 
@@ -2117,8 +2111,6 @@ udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu/announce
 

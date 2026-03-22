@@ -76,7 +76,6 @@ payload:
   - +.bandito.org
   - +.bangumi.moe
   - +.bangumi.zip
-  - +.bdremux.club
   - +.beatrice-raws.org
   - +.bedro.cloud
   - +.beeimg.com
@@ -151,6 +150,7 @@ payload:
   - +.crawfish.cf
   - +.ctix.cn
   - +.ctix.cn80
+  - +.cubonegro.org
   - +.cubonegro.xyz
   - +.cutie.dating
   - +.cybar.xyz
@@ -307,6 +307,7 @@ payload:
   - +.jsb.by00
   - +.just-h.party
   - +.jutone.com
+  - +.jvavav.com
   - +.k.vu
   - +.k3tracker.cc
   - +.kali.org
@@ -378,6 +379,7 @@ payload:
   - +.mortis.me
   - +.moxing.party
   - +.mp3quran.net
+  - +.mrhei.tech
   - +.mserver.link
   - +.mtahost.co
   - +.mvgroup.org
@@ -411,6 +413,8 @@ payload:
   - +.nucozer-tracker.ml
   - +.nwps.ws
   - +.nyaa.tk
+  - +.nyaa2p.i2p
+  - +.nyaaplus.i2p
   - +.nyaatracker.com
   - +.nyacat.pw
   - +.nyap2p.com

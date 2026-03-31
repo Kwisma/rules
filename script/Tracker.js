@@ -126,8 +126,7 @@ async function saveMihomoFiles() {
 
 async function saveSingboxFiles() {
     const domainRules = {
-        domain_suffix: Array.from(domainSet)
-            .map(domain => domain.replace(/^\+\./, ''))
+        domain: Array.from(domainSet)
             .filter(domain => domain)
     };
     const ipRules = {

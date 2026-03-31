@@ -904,8 +904,6 @@ http://torrent.arjlover.net:2710/announce
 
 http://torrent.fedoraproject.org:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrent.mp3quran.net/announce
 
 http://torrent.mp3quran.net/announce.php
@@ -2349,8 +2347,6 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.1048576.cn:17272/announce
 
 udp://tracker.1h.is:1337/announce
 

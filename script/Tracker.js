@@ -50,18 +50,13 @@ const domainSet = new Set();
 const ipSet = new Set();
 const urlSet = new Set();
 
-const shortenDomain = (domain) => {
-    const parts = domain.split('.');
-    return parts.length > 2 ? `+.${parts.slice(-2).join('.')}` : `+.${domain}`;
-};
-
 const handleLine = (line) => {
     const trimmed = line.trim();
     if (!trimmed || trimmed.startsWith('#')) return;
 
     if (/^- *(DOMAIN(-SUFFIX)?),/.test(trimmed)) {
         const domain = trimmed.split(',')[1]?.trim();
-        if (domain) domainSet.add(shortenDomain(domain));
+        if (domain) domainSet.add(domain);
         return;
     }
 
@@ -82,7 +77,7 @@ const handleLine = (line) => {
         } else if (ipv6Regex.test(host)) {
             ipSet.add(`${host}/128`);
         } else {
-            domainSet.add(shortenDomain(host));
+            domainSet.add(host);
         }
     } catch {
         console.warn(`Warning: Failed to parse line: ${trimmed}`);

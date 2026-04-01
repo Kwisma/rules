@@ -388,6 +388,7 @@ payload:
   - torrent-tracker.ru
   - torrent.arjlover.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -518,7 +519,6 @@ payload:
   - tracker.frozen-layer.com
   - tracker.frozen-layer.net
   - tracker.gbitt.info
-  - tracker.gcrenwp.top
   - tracker.gcvchp.com
   - tracker.gdp.pw
   - tracker.ghostchu-services.top
@@ -586,6 +586,7 @@ payload:
   - tracker.novy.vip
   - tracker.nucozer-tracker.ml
   - tracker.nyaa.tk
+  - tracker.nyaa.vc
   - tracker.nyaa2p.i2p
   - tracker.nyacat.pw
   - tracker.ololosh.space
@@ -666,6 +667,7 @@ payload:
   - tracker.vrpnet.org
   - tracker.waaa.moe
   - tracker.wepzone.net
+  - tracker.wildkat.net
   - tracker.x6c.co
   - tracker.xdvdz.com
   - tracker.xfapi.top

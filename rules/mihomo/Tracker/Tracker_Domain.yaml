@@ -38,6 +38,7 @@ payload:
   - announce.partis.si
   - api.ipv4online.uk
   - app.icon256.com
+  - archive.torrentonline.cc
   - asiatorrent.ddns.net
   - asiatorrent.giize.com
   - astrr.ru
@@ -186,7 +187,6 @@ payload:
   - jp.moeweb.pw
   - jsb.by00
   - jutone.com
-  - jvavav.com
   - k.avc.cx
   - k3tracker.cc
   - kamikazee.duckdns.org
@@ -242,6 +242,7 @@ payload:
   - nyaa.tracker.wf
   - nyaaplus.i2p
   - o-unkusrx.cloud.okteto.net
+  - obey.torrentonline.cc
   - odd-hd.fr
   - oh.fuuuuuck.com
   - open.4ever.tk
@@ -388,6 +389,7 @@ payload:
   - torrent-tracker.ru
   - torrent.arjlover.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -519,6 +521,7 @@ payload:
   - tracker.frozen-layer.com
   - tracker.frozen-layer.net
   - tracker.gbitt.info
+  - tracker.gcrenwp.top
   - tracker.gcvchp.com
   - tracker.gdp.pw
   - tracker.ghostchu-services.top
@@ -744,6 +747,7 @@ payload:
   - wegkxfcivgx.ydns.eu
   - wepzone.net
   - wg.mortis.me
+  - whybother.torrentonline.cc
   - widemus.de
   - wolf.parrot.run
   - wsad.run.place

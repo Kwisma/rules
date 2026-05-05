@@ -361,7 +361,6 @@ payload:
   - t.overflow.biz
   - t.publictracker.xyz
   - t.quic.ws
-  - t.warwarez.ru
   - t.zerg.pw
   - t1.chfs.ch
   - t1.hloli.org
@@ -656,6 +655,7 @@ payload:
   - tracker.tnl.one
   - tracker.torrent.eu.org
   - tracker.torrentbytes.net
+  - tracker.torrentclaw.com
   - tracker.torrentsnows.com
   - tracker.torrentyorg.pl
   - tracker.torrust-demo.com

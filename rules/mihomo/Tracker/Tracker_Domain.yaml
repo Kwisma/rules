@@ -123,7 +123,6 @@ payload:
   - concen.org
   - cpe-104-34-3-152.socal.res.rr.com
   - cutscloud.duckdns.org
-  - d13bttrck.duckdns.org
   - d40969.acod.regrucolo.ru
   - data-bg.net
   - datascene.net
@@ -392,6 +391,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -729,6 +729,7 @@ payload:
   - ttracker.just-h.party
   - uabits.today
   - uatracker.net
+  - udp.trackarr.org
   - udp.tracker.projectk.org
   - udp1.torrust-tracker-demo.com
   - ulfbrueggemann.no-ip.org

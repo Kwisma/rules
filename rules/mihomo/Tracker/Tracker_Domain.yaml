@@ -391,7 +391,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -727,6 +726,7 @@ payload:
   - ttk.pp.ua
   - ttk2.nbaonlineservice.com
   - ttracker.just-h.party
+  - u.peer-exchange.download
   - uabits.today
   - uatracker.net
   - udp.trackarr.org

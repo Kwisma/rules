@@ -386,14 +386,12 @@ payload:
   - tk1.trackerservers.com
   - tk2.greedland.net
   - tk2.trackerservers.com
-  - tk4.leechshield.link
   - torrent-team.net
   - torrent-tracker.hama3.net
   - torrent-tracker.ru
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -527,7 +525,6 @@ payload:
   - tracker.frozen-layer.com
   - tracker.frozen-layer.net
   - tracker.gbitt.info
-  - tracker.gcrenwp.top
   - tracker.gcvchp.com
   - tracker.gdp.pw
   - tracker.gigatorrents.ws
@@ -718,7 +715,6 @@ payload:
   - tracker3.itzmx.com
   - tracker3.torrentino.com
   - tracker4.itzmx.com
-  - tracker4.leechshield.link
   - tracker810.xyz
   - trackers.ibzu.me
   - trackers.mlsub.net
@@ -732,7 +728,6 @@ payload:
   - ttk.pp.ua
   - ttk2.nbaonlineservice.com
   - ttracker.just-h.party
-  - u.peer-exchange.download
   - uabits.today
   - uatracker.net
   - udp.trackarr.org

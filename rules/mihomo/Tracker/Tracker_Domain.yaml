@@ -391,6 +391,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -795,3 +796,4 @@ payload:
   - z.mercax.com
   - zecircle.xyz
   - zer0day.000webhostapp.com
+  - zer0day.ch

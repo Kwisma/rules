@@ -391,7 +391,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -616,6 +615,7 @@ payload:
   - tracker.pmman.tech
   - tracker.pomf.se
   - tracker.pow7.com
+  - tracker.privateseedbox.xyz
   - tracker.pterclub.com
   - tracker.ptrmc.net
   - tracker.publictorrent.net

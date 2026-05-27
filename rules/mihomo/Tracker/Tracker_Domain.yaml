@@ -251,6 +251,7 @@ payload:
   - open.acgnxtracker.com
   - open.acgtracker.com
   - open.demonii.com
+  - open.demonoid.ch
   - open.free-tracker.ga
   - open.ftorrent.com
   - open.kickasstracker.com
@@ -384,7 +385,6 @@ payload:
   - tk.mabo.ltd
   - tk1.trackerservers.com
   - tk2.greedland.net
-  - tk2.trackerservers.com
   - torrent-team.net
   - torrent-tracker.hama3.net
   - torrent-tracker.ru

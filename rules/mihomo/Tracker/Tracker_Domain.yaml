@@ -251,7 +251,6 @@ payload:
   - open.acgnxtracker.com
   - open.acgtracker.com
   - open.demonii.com
-  - open.demonoid.ch
   - open.free-tracker.ga
   - open.ftorrent.com
   - open.kickasstracker.com
@@ -391,6 +390,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -662,6 +662,7 @@ payload:
   - tracker.torrentsnows.com
   - tracker.torrentyorg.pl
   - tracker.torrust-demo.com
+  - tracker.trackarr.org
   - tracker.trackerfix.com
   - tracker.trancetraffic.com
   - tracker.tricitytorrents.com

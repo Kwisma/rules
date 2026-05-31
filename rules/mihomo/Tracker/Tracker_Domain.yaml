@@ -4,6 +4,7 @@ payload:
   - 004430.xyz
   - 0123456789nonexistent.com
   - 0205.uptm.ch
+  - 021912.xyz
   - 0d.kebhana.mx
   - 10.rarbg.com
   - 107.189.10.20.sslip.io
@@ -45,6 +46,7 @@ payload:
   - astrr.ru
   - atrack.pow7.com
   - baibako.tv
+  - banananetwork.qzz.io
   - bananas.space
   - bandito.byterunner.io
   - bedro.cloud
@@ -281,6 +283,7 @@ payload:
   - opentracker.skank.i2p
   - opentracker.xyz
   - opentrackr.org
+  - orgtgju.org
   - p2p.0g.cx
   - p2p.publictracker.xyz
   - p4p.arenabg.com
@@ -391,6 +394,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws

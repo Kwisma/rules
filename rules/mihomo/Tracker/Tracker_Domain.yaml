@@ -255,6 +255,7 @@ payload:
   - open.acgnxtracker.com
   - open.acgtracker.com
   - open.demonii.com
+  - open.demonoid.ch
   - open.free-tracker.ga
   - open.ftorrent.com
   - open.kickasstracker.com
@@ -394,7 +395,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -463,6 +463,7 @@ payload:
   - tracker.bangumi.zip
   - tracker.beeimg.com
   - tracker.belmult.online
+  - tracker.bigbewbs.online
   - tracker.bitsearch.to
   - tracker.bittor.pw
   - tracker.bittorrent.nibblepoker.lu
@@ -505,6 +506,7 @@ payload:
   - tracker.dmhy.org00
   - tracker.dmhy.pw
   - tracker.dnlab.net
+  - tracker.dorcus.digital
   - tracker.draatman.uk
   - tracker.ducks.party
   - tracker.dutchtracking.nl
@@ -655,6 +657,7 @@ payload:
   - tracker.tambovnet.org
   - tracker.tamersunion.org
   - tracker.tcp.exchange
+  - tracker.teambelgium.net
   - tracker.tfile.co
   - tracker.tfile.me
   - tracker.theoks.net
@@ -749,7 +752,6 @@ payload:
   - v74853.hosted-by-vdsina.com
   - vibe.sleepyinternetfun.xyz
   - vito-tracker.duckdns.org
-  - vito-tracker.space
   - voxhost.fr
   - vps-c1adea63.vps.ovh.net
   - vps-dd0a0715.vps.ovh.net

@@ -309,7 +309,6 @@ payload:
   - r.l5.ca
   - region.nl1.privex.cc
   - reisub.nsupdate.info
-  - rekcart.duckdns.org
   - rep-art.ynh.fr
   - retracker.hotplug.ru
   - retracker.joxnet.ru
@@ -403,7 +402,6 @@ payload:
   - torrent.tracker.durukanbal.com
   - torrent.ubuntu.com
   - torrent.unix-ag.uni-kl.de
-  - torrentclub.online
   - torrentclub.space
   - torrents.artixlinux.org
   - torrents.hikarinokiseki.com
@@ -510,7 +508,6 @@ payload:
   - tracker.dnlab.net
   - tracker.dorcus.digital
   - tracker.draatman.uk
-  - tracker.ducks.party
   - tracker.dutchtracking.nl
   - tracker.edkj.club
   - tracker.electro-torrent.pl
@@ -754,6 +751,7 @@ payload:
   - v74853.hosted-by-vdsina.com
   - vibe.sleepyinternetfun.xyz
   - vito-tracker.duckdns.org
+  - vito-tracker.space
   - voxhost.fr
   - vps-c1adea63.vps.ovh.net
   - vps-dd0a0715.vps.ovh.net

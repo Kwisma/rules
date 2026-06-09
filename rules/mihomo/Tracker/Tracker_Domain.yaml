@@ -192,7 +192,6 @@ payload:
   - jp.moeweb.pw
   - jsb.by00
   - jutone.com
-  - jvavav.com
   - k.avc.cx
   - k3tracker.cc
   - kamikazee.duckdns.org
@@ -309,6 +308,7 @@ payload:
   - r.l5.ca
   - region.nl1.privex.cc
   - reisub.nsupdate.info
+  - rekcart.duckdns.org
   - rep-art.ynh.fr
   - retracker.hotplug.ru
   - retracker.joxnet.ru
@@ -402,6 +402,7 @@ payload:
   - torrent.tracker.durukanbal.com
   - torrent.ubuntu.com
   - torrent.unix-ag.uni-kl.de
+  - torrentclub.online
   - torrentclub.space
   - torrents.artixlinux.org
   - torrents.hikarinokiseki.com
@@ -508,6 +509,7 @@ payload:
   - tracker.dnlab.net
   - tracker.dorcus.digital
   - tracker.draatman.uk
+  - tracker.ducks.party
   - tracker.dutchtracking.nl
   - tracker.edkj.club
   - tracker.electro-torrent.pl
@@ -647,7 +649,6 @@ payload:
   - tracker.skynetcloud.site
   - tracker.skyts.net
   - tracker.srv00.com
-  - tracker.startwork.cv
   - tracker.sushirave.net
   - tracker.swateam.org.uk
   - tracker.swifte.space

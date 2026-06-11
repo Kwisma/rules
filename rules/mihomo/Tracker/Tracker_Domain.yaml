@@ -98,6 +98,7 @@ payload:
   - bt2.archive.org
   - bt2.edwardk.info
   - btracker.top
+  - btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p
   - bttracker.debian.org
   - btx.anifilm.tv
   - bubu.mapfactor.com
@@ -308,7 +309,6 @@ payload:
   - r.l5.ca
   - region.nl1.privex.cc
   - reisub.nsupdate.info
-  - rekcart.duckdns.org
   - rep-art.ynh.fr
   - retracker.hotplug.ru
   - retracker.joxnet.ru
@@ -317,7 +317,6 @@ payload:
   - retracker.ohys.net
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - retracker2.x2k.ru
   - rfc5746.mywaifu.best
   - rotracker.ohys.net
   - rstracker.ohys.net
@@ -395,7 +394,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -509,7 +507,6 @@ payload:
   - tracker.dnlab.net
   - tracker.dorcus.digital
   - tracker.draatman.uk
-  - tracker.ducks.party
   - tracker.dutchtracking.nl
   - tracker.edkj.club
   - tracker.electro-torrent.pl
@@ -617,13 +614,13 @@ payload:
   - tracker.parrotsec.org
   - tracker.pcfreetime.com
   - tracker.peckservers.com
+  - tracker.peerfect.org
   - tracker.pimp4003.net
   - tracker.playground.ru
   - tracker.plx.im
   - tracker.pmman.tech
   - tracker.pomf.se
   - tracker.pow7.com
-  - tracker.privateseedbox.xyz
   - tracker.pterclub.com
   - tracker.ptrmc.net
   - tracker.publictorrent.net
@@ -752,7 +749,6 @@ payload:
   - v74853.hosted-by-vdsina.com
   - vibe.sleepyinternetfun.xyz
   - vito-tracker.duckdns.org
-  - vito-tracker.space
   - voxhost.fr
   - vps-c1adea63.vps.ovh.net
   - vps-dd0a0715.vps.ovh.net

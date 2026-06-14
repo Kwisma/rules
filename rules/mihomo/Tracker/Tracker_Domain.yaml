@@ -309,6 +309,7 @@ payload:
   - r.l5.ca
   - region.nl1.privex.cc
   - reisub.nsupdate.info
+  - rekcart.duckdns.org
   - rep-art.ynh.fr
   - retracker.hotplug.ru
   - retracker.joxnet.ru
@@ -623,6 +624,7 @@ payload:
   - tracker.pmman.tech
   - tracker.pomf.se
   - tracker.pow7.com
+  - tracker.privateseedbox.xyz
   - tracker.pterclub.com
   - tracker.ptrmc.net
   - tracker.publictorrent.net

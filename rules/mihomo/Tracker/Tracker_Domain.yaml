@@ -395,7 +395,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -739,7 +738,6 @@ payload:
   - ttracker.just-h.party
   - uabits.today
   - uatracker.net
-  - udp.tracker.projectk.org
   - udp1.torrust-tracker-demo.com
   - ulfbrueggemann.no-ip.org
   - unknownsite.de

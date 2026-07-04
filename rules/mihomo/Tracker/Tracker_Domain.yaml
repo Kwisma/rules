@@ -289,6 +289,7 @@ payload:
   - p4p.arenabg.com
   - parag.rs
   - peersteers.org
+  - php-bobcat.wasmer.app
   - play.aimisayo.com
   - pow7.com
   - prestige.minimafia.nl
@@ -393,6 +394,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -804,3 +806,4 @@ payload:
   - yuptracker.gaijinent.com
   - zecircle.xyz
   - zer0day.000webhostapp.com
+  - zer0day.ch

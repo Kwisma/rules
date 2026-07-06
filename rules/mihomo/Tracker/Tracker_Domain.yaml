@@ -317,7 +317,6 @@ payload:
   - retracker.ohys.net
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - retracker2.x2k.ru
   - rfc5746.mywaifu.best
   - rotracker.ohys.net
   - rstracker.ohys.net
@@ -395,6 +394,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -595,6 +595,7 @@ payload:
   - tracker.nartlof.com.br
   - tracker.nekomi.cn
   - tracker.netmap.top
+  - tracker.nexusstream.eu
   - tracker.nitrix.me
   - tracker.noobsubs.net
   - tracker.novaopcj.eu.org

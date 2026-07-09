@@ -137,6 +137,7 @@ payload:
   - dn42.smrsh.net
   - docker-tracker-production.up.railway.app
   - download.nerocloud.me
+  - ds32244.seedhost.eu
   - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - echostar.ddnsfree.com
   - ehtracker.org
@@ -189,7 +190,6 @@ payload:
   - jp.moeweb.pw
   - jsb.by00
   - jutone.com
-  - jvavav.com
   - k.avc.cx
   - k3tracker.cc
   - kamikazee.duckdns.org
@@ -315,7 +315,6 @@ payload:
   - retracker.ohys.net
   - retracker.spark-rostov.ru
   - retracker01-msk-virt.corbina.net
-  - retracker2.x2k.ru
   - rfc5746.mywaifu.best
   - rotracker.ohys.net
   - rstracker.ohys.net
@@ -392,7 +391,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws

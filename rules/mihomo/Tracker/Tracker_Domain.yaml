@@ -23,6 +23,7 @@ payload:
   - 960303.xyz
   - aaa.army
   - abir0dev.github.io
+  - aboutbeautifulgallopinghorsesinthegreenpasture.online
   - acxx.de
   - admin.52ywp.com
   - admin.videoenpoche.info
@@ -121,7 +122,6 @@ payload:
   - cn.pcfreetime.com
   - cny.fan
   - coeus.torrentonline.cc
-  - colibri.parrot.run
   - concen.org
   - cpe-104-34-3-152.socal.res.rr.com
   - cutscloud.duckdns.org
@@ -236,9 +236,7 @@ payload:
   - new-line.net
   - node01.madtia.cc
   - node01.torrentonline.cc
-  - node01.trackerstatus.live
   - node02.madtia.cc
-  - node02.torrentonline.cc
   - ns-1.x-fins.com
   - ns1.monolithindustries.com
   - ns3109441.mypdns.org
@@ -307,6 +305,7 @@ payload:
   - r.l5.ca
   - region.nl1.privex.cc
   - reisub.nsupdate.info
+  - rekcart.duckdns.org
   - rep-art.ynh.fr
   - retracker.hotplug.ru
   - retracker.joxnet.ru
@@ -354,6 +353,7 @@ payload:
   - staticfile-bobcat.wasmer.app
   - su-data.com
   - sukebei.tracker.wf
+  - supertracker.cc.cd
   - t.213891.xyz
   - t.acg.rip
   - t.al.uy
@@ -504,6 +504,7 @@ payload:
   - tracker.dnlab.net
   - tracker.dorcus.digital
   - tracker.draatman.uk
+  - tracker.ducks.party
   - tracker.dutchtracking.nl
   - tracker.edkj.club
   - tracker.electro-torrent.pl
@@ -549,7 +550,6 @@ payload:
   - tracker.ipv6tracker.ru
   - tracker.iriseden.fr
   - tracker.iro.moe
-  - tracker.isbigdick.cc.cd
   - tracker.istole.it
   - tracker.ixuexi.click
   - tracker.jdx3.org
@@ -628,7 +628,6 @@ payload:
   - tracker.publictracker.xyz
   - tracker.pussytorrents.org
   - tracker.puvvadi.net
-  - tracker.qingwa.pro
   - tracker.qingwapt.org
   - tracker.qu.ax
   - tracker.quix.cf
@@ -676,7 +675,6 @@ payload:
   - tracker.tryhackx.org
   - tracker.tvgc.win
   - tracker.tvunderground.org.ru
-  - tracker.umunu.ru
   - tracker.valete.tf
   - tracker.vanitycore.co
   - tracker.vectahosting.eu
@@ -759,7 +757,6 @@ payload:
   - wg.mortis.me
   - whybother.torrentonline.cc
   - widemus.de
-  - wolf.parrot.run
   - wsad.run.place
   - www.2600.com
   - www.all4nothin.net
@@ -801,4 +798,3 @@ payload:
   - yuptracker.gaijinent.com
   - zecircle.xyz
   - zer0day.000webhostapp.com
-  - zer0day.ch

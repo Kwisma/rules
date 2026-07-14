@@ -942,8 +942,6 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
-http://tr1.aag.moe:2095/announce
-
 http://tracker-udp.anirena.com/announce
 
 http://tracker-udp.gbitt.info/announce
@@ -1646,6 +1644,8 @@ https://tracker.ipfsscan.io/announce
 
 https://tracker.iriseden.fr/announce
 
+https://tracker.isbigdick.cc.cd/announce
+
 https://tracker.jdx3.org/announce
 
 https://tracker.jiesen.life:8443/announce
@@ -1976,8 +1976,6 @@ udp://88.80.28.7:6969/announce
 
 udp://88.99.2.212:6969/announce
 
-udp://89.234.156.205:451/announce
-
 udp://89.36.216.8:6969/announce
 
 udp://91.211.5.21:6969/announce
@@ -2162,8 +2160,6 @@ udp://market-re.quest:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -2344,8 +2340,6 @@ udp://tracker-udp.anirena.com:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -2397,8 +2391,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.dorcus.digital:1337/announce
-
-udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -2471,8 +2463,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.riverarmy.xyz:6969/announce
 
 udp://tracker.sharebro.in:6969/announce
-
-udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 

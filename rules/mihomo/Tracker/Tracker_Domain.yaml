@@ -140,6 +140,7 @@ payload:
   - ds32244.seedhost.eu
   - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - echostar.ddnsfree.com
+  - edgev.duckdns.org
   - ehtracker.org
   - elementsbrowser.com
   - epider.me
@@ -671,6 +672,7 @@ payload:
   - tracker.vraphim.com
   - tracker.vrpnet.org
   - tracker.waaa.moe
+  - tracker.webtorrent.dev
   - tracker.wepzone.net
   - tracker.wildkat.net
   - tracker.x6c.co
@@ -781,6 +783,7 @@ payload:
   - yahor.ftp.sh
   - yahor.of.by
   - yann5.hexanyn.fr
+  - ydlkccp.dscloud.me
   - yuki.bt.bontal.net
   - yuptracker-eu.gaijinent.com
   - yuptracker-sa.gaijinent.com

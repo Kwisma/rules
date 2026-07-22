@@ -186,13 +186,11 @@ http://211.22.29.93/announce
 
 http://211.75.205.187/announce
 
-http://211.75.205.187:6969/announce
-
 http://211.75.205.188/announce
 
-http://211.75.205.189/announce
+http://211.75.205.188:6969/announce
 
-http://211.75.205.189:6969/announce
+http://211.75.205.189/announce
 
 http://211.75.210.221/announce
 
@@ -209,6 +207,10 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 
 http://220.130.15.30:6969/announce
+
+http://34.66.57.33:2701/announce
+
+http://34.66.57.33:6969/announce
 
 http://34.89.30.59/announce
 
@@ -1120,8 +1122,6 @@ http://tracker.novaopcj.eu.org:6969/announce
 
 http://tracker.nucozer-tracker.ml:2710/announce
 
-http://tracker.nyaa.vc:6969/announce
-
 http://tracker.nyaa2p.i2p/announce
 
 http://tracker.nyacat.pw:7000/announce
@@ -1640,6 +1640,8 @@ https://tracker.foreverpirates.co/announce
 
 https://tracker.gbitt.info/announce
 
+https://tracker.gcrenwp.top/announce
+
 https://tracker.guguan.us.kg/announce
 
 https://tracker.h3o2.me/announce
@@ -1651,6 +1653,8 @@ https://tracker.iochimari.moe/announce
 https://tracker.ipfsscan.io/announce
 
 https://tracker.iriseden.fr/announce
+
+https://tracker.isbigdick.cc.cd/announce
 
 https://tracker.jdx3.org/announce
 
@@ -1836,8 +1840,6 @@ udp://156.234.201.18:80/announce
 
 udp://158.101.161.60:3131/announce
 
-udp://159.146.99.45:6969/announce
-
 udp://161.97.67.210:6969/announce
 
 udp://163.172.29.130:80/announce
@@ -1894,13 +1896,9 @@ udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
 
-udp://208.83.20.20:6969/announce
-
 udp://209.126.11.233:6969/announce
 
-udp://211.75.205.187:80/announce
-
-udp://211.75.205.189:6969/announce
+udp://211.75.205.188:6969/announce
 
 udp://211.75.29.254:6969/announce
 
@@ -1919,6 +1917,8 @@ udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 
 udp://37.120.182.83:15480/announce
+
+udp://37.120.182.83:1984/announce
 
 udp://37.187.111.136:6969/announce
 
@@ -1962,8 +1962,6 @@ udp://51.83.160.93:6969/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://54.36.179.216:6969/announce
-
 udp://57.129.129.129:6969/announce
 
 udp://57.129.129.187:6969/announce
@@ -1973,6 +1971,8 @@ udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
 
 udp://60.249.37.20:6969/announce
+
+udp://60.249.37.20:80/announce
 
 udp://65.109.28.17:6969/announce
 
@@ -2109,8 +2109,6 @@ udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
-udp://edgev.duckdns.org:6969/announce
 
 udp://elementsbrowser.com:6969/announce
 
@@ -2482,8 +2480,6 @@ udp://tracker.riverarmy.xyz:6969/announce
 
 udp://tracker.sharebro.in:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -2611,8 +2607,6 @@ udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 
 udp://zecircle.xyz:6969/announce
-
-udp://zer0day.ch:1337/announce
 
 ws://hub.bugout.link/announce
 

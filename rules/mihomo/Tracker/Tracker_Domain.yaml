@@ -182,6 +182,7 @@ payload:
   - ipv4.rer.lol
   - ipv4.tracker.harry.lu
   - ipv4announce.sktorrent.eu
+  - ipv6.govt.hu
   - ipv6.rer.lol
   - ipv6.tracker.harry.lu
   - ipv6.tracker.m-team.cc
@@ -190,6 +191,7 @@ payload:
   - jp.moeweb.pw
   - jsb.by00
   - jutone.com
+  - jvavav.com
   - k.avc.cx
   - k3tracker.cc
   - kamikazee.duckdns.org
@@ -544,11 +546,11 @@ payload:
   - tracker.ipv6tracker.ru
   - tracker.iriseden.fr
   - tracker.iro.moe
-  - tracker.isbigdick.cc.cd
   - tracker.istole.it
   - tracker.ixuexi.click
   - tracker.jdx3.org
   - tracker.jiesen.life
+  - tracker.k.vu
   - tracker.kali.org
   - tracker.kawaii.id
   - tracker.kitaujisub.site
@@ -561,6 +563,7 @@ payload:
   - tracker.lilithraws.org
   - tracker.linkomanija.org
   - tracker.lintk.me
+  - tracker.linvk.com
   - tracker.logirl.moe
   - tracker.loli.co.nz
   - tracker.loligirl.cn

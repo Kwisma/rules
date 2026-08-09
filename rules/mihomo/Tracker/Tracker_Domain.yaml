@@ -389,7 +389,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -488,6 +487,7 @@ payload:
   - tracker.cutie.dating
   - tracker.cyber-hub.net
   - tracker.cyberia.is
+  - tracker.cynma.tv
   - tracker.darkness.services
   - tracker.ddunlimited.net
   - tracker.deadorbit.nl
@@ -799,3 +799,4 @@ payload:
   - yuptracker.gaijinent.com
   - zecircle.xyz
   - zer0day.000webhostapp.com
+  - zer0day.ch

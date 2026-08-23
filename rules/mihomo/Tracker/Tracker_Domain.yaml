@@ -385,7 +385,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -525,6 +524,7 @@ payload:
   - tracker.gdp.pw
   - tracker.gigatorrents.ws
   - tracker.gmi.gd
+  - tracker.govt.hu
   - tracker.guguan.000.pe
   - tracker.guguan.us.kg
   - tracker.h0me.cc

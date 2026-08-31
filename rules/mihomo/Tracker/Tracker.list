@@ -40,8 +40,6 @@ http://116.9.207.226:6969/announce
 
 http://119.28.71.45:8080/announce
 
-http://123.245.62.74:6969/announce
-
 http://129.146.193.240:6699/announce
 
 http://13.115.115.32:6969/announce
@@ -51,6 +49,10 @@ http://132.243.161.144:6969/announce
 http://1337.abcvg.info/announce
 
 http://1337.abcvg.info/announce+108
+
+http://135.125.198.235/announce
+
+http://135.125.198.235:2710/announce
 
 http://140.235.237.23:6969/announce
 
@@ -68,7 +70,7 @@ http://147job.com:6969/announce
 
 http://151.115.49.115:1337/announce
 
-http://152.53.194.103:2710/announce
+http://152.243.213.247:6969/announce
 
 http://155.248.200.105/announce
 
@@ -144,8 +146,6 @@ http://185.232.169.109/announce
 
 http://185.70.187.79:6969/announce
 
-http://187.57.131.55:6969/announce
-
 http://187.57.14.62:6969/announce
 
 http://189.0.196.51:6969/announce
@@ -186,6 +186,8 @@ http://211.22.29.93/announce
 
 http://211.75.205.187/announce
 
+http://211.75.205.187:6969/announce
+
 http://211.75.205.188/announce
 
 http://211.75.205.188:6969/announce
@@ -193,8 +195,6 @@ http://211.75.205.188:6969/announce
 http://211.75.205.189/announce
 
 http://211.75.210.221/announce
-
-http://211.75.210.221:6969/announce
 
 http://211.75.29.254:6969/announce
 
@@ -209,6 +209,8 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 
 http://220.130.15.30:6969/announce
+
+http://34.66.57.33/announce
 
 http://34.89.30.59/announce
 
@@ -401,6 +403,8 @@ http://[2605:6400:30:fad6::dead:c0d3]:1337/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
 http://all4nothin.net/announce
 
@@ -654,6 +658,8 @@ http://jp.moeweb.pw:6969/announce
 
 http://jsb.by00/announce
 
+http://jvavav.com/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -897,6 +903,8 @@ http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 
 http://torrent.fedoraproject.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrent.mp3quran.net/announce
 
@@ -1656,8 +1664,6 @@ https://tracker.lilithraws.cf/announce
 
 https://tracker.lilithraws.org/announce
 
-https://tracker.linvk.com/announce
-
 https://tracker.logirl.moe/announce
 
 https://tracker.loli.co.nz/announce
@@ -1802,6 +1808,8 @@ udp://132.226.6.145:6969/announce
 
 udp://135.125.106.92:6969/announce
 
+udp://135.125.198.235:1984/announce
+
 udp://144.91.88.22:6969/announce
 
 udp://148.251.53.72:6969/announce
@@ -1823,8 +1831,6 @@ udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
 
 udp://163.172.29.130:80/announce
-
-udp://164.152.110.70:6969/announce
 
 udp://167.99.185.219:6969/announce
 
@@ -1856,8 +1862,6 @@ udp://185.230.4.150:1337/announce
 
 udp://185.44.82.25:1337/announce
 
-udp://187.57.131.55:6969/announce
-
 udp://192.95.46.115:6969/announce
 
 udp://192.99.100.68:6969/announce
@@ -1878,13 +1882,15 @@ udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
 
+udp://208.83.20.20:6969/announce
+
 udp://209.126.11.233:6969/announce
 
 udp://209.141.59.25:6969/announce
 
-udp://211.75.205.187:80/announce
+udp://211.75.205.187:6969/announce
 
-udp://211.75.205.188:6969/announce
+udp://211.75.205.187:80/announce
 
 udp://211.75.29.254:6969/announce
 
@@ -1895,8 +1901,6 @@ udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
 
 udp://23.153.248.128:6969/announce
-
-udp://23.157.120.14:6969/announce
 
 udp://31.56.179.159:6969/announce
 
@@ -1946,8 +1950,6 @@ udp://52.211.139.85:27022/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://54.36.179.216:6969/announce
-
 udp://6.pocketnet.app:6969/announce
 
 udp://60.172.236.18:6969/announce
@@ -1977,6 +1979,8 @@ udp://89.36.216.8:6969/announce
 udp://91.177.126.188:6969/announce
 
 udp://91.211.5.21:6969/announce
+
+udp://91.216.110.53:451/announce
 
 udp://93.104.214.40:6969/announce
 
@@ -2391,6 +2395,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.dorcus.digital:1337/announce
+
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.edkj.club:6969/announce
 

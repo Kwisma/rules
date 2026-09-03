@@ -50,8 +50,6 @@ http://1337.abcvg.info/announce
 
 http://1337.abcvg.info/announce+108
 
-http://135.125.198.235/announce
-
 http://135.125.198.235:2710/announce
 
 http://140.235.237.23:6969/announce
@@ -186,8 +184,6 @@ http://211.22.29.93/announce
 
 http://211.75.205.187/announce
 
-http://211.75.205.187:6969/announce
-
 http://211.75.205.188/announce
 
 http://211.75.205.188:6969/announce
@@ -209,6 +205,8 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 
 http://220.130.15.30:6969/announce
+
+http://34.66.57.33:1337/announce
 
 http://34.89.30.59/announce
 
@@ -401,8 +399,6 @@ http://[2605:6400:30:fad6::dead:c0d3]:1337/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
-
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
 http://all4nothin.net/announce
 
@@ -1796,6 +1792,8 @@ udp://104.143.10.186:8000/announce
 
 udp://107.175.221.194:6969/announce
 
+udp://107.189.2.131:1337/announce
+
 udp://109.201.134.183:80/announce
 
 udp://11.rarbg.com:80/announce
@@ -1848,6 +1846,10 @@ udp://180.131.145.175:6969/announce
 
 udp://185.102.219.163:6969/announce
 
+udp://185.121.168.96:1337/announce
+
+udp://185.121.168.96:6969/announce
+
 udp://185.171.202.111:6969/announce
 
 udp://185.181.60.155:80/announce
@@ -1884,10 +1886,6 @@ udp://209.126.11.233:6969/announce
 
 udp://209.141.59.25:6969/announce
 
-udp://211.75.205.187:80/announce
-
-udp://211.75.205.188:6969/announce
-
 udp://211.75.29.254:6969/announce
 
 udp://212.42.38.197:6969/announce
@@ -1897,8 +1895,6 @@ udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
 
 udp://23.153.248.128:6969/announce
-
-udp://23.157.120.14:6969/announce
 
 udp://31.56.179.159:6969/announce
 

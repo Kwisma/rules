@@ -298,6 +298,7 @@ payload:
   - qtstm32fan.ru
   - region.nl1.privex.cc
   - reisub.nsupdate.info
+  - rekcart.duckdns.org
   - rep-art.ynh.fr
   - retracker.hotplug.ru
   - retracker.joxnet.ru
@@ -383,7 +384,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws

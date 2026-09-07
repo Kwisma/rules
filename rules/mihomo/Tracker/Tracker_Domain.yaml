@@ -5,14 +5,19 @@ payload:
   - 0123456789nonexistent.com
   - 021912.xyz
   - 0d.kebhana.mx
+  - 1.tracker.eu.org
   - 10.rarbg.com
   - 107.189.10.20.sslip.io
   - 11.rarbg.com
   - 1337.abcvg.info
   - 147job.com
   - 1c.premierzal.ru
+  - 2.tracker.eu.org
+  - 3.tracker.eu.org
   - 337hhh.xyz
+  - 4.tracker.eu.org
   - 47.ip-51-68-199.eu
+  - 5.tracker.eu.org
   - 504e163a.host.njalla.net
   - 6.pocketnet.app
   - 60-fps.org
@@ -187,6 +192,7 @@ payload:
   - jp.moeweb.pw
   - jsb.by00
   - jutone.com
+  - jvavav.com
   - k.avc.cx
   - k3tracker.cc
   - kamikazee.duckdns.org
@@ -383,6 +389,7 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
+  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws

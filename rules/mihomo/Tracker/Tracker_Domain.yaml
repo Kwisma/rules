@@ -188,7 +188,6 @@ payload:
   - jp.moeweb.pw
   - jsb.by00
   - jutone.com
-  - jvavav.com
   - k.avc.cx
   - k3tracker.cc
   - kamikazee.duckdns.org
@@ -199,7 +198,6 @@ payload:
   - laxclax.ddns.net00
   - laze.cc
   - leefafa.tk
-  - leet-tracker.moe
   - li1406-230.members.linode.com
   - li2021-95.members.linode.com
   - lima-peru.subventas.com
@@ -247,7 +245,6 @@ payload:
   - open.acgnxtracker.com
   - open.acgtracker.com
   - open.demonii.com
-  - open.demonoid.ch
   - open.free-tracker.ga
   - open.ftorrent.com
   - open.kickasstracker.com
@@ -383,7 +380,6 @@ payload:
   - torrent.arjlover.net
   - torrent.bowed.net
   - torrent.fedoraproject.org
-  - torrent.hificode.in
   - torrent.i.ng
   - torrent.mp3quran.net
   - torrent.nwps.ws
@@ -658,6 +654,7 @@ payload:
   - tracker.torrent.eu.org
   - tracker.torrentbytes.net
   - tracker.torrentclaw.com
+  - tracker.torrents.observer
   - tracker.torrentsnows.com
   - tracker.torrentyorg.pl
   - tracker.torrust-demo.com
@@ -797,4 +794,3 @@ payload:
   - yuptracker.gaijinent.com
   - zecircle.xyz
   - zer0day.000webhostapp.com
-  - zer0day.ch

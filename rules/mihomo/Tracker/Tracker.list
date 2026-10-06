@@ -2034,6 +2034,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
+udp://bt-tracker.de:6969/announce
+
 udp://bt.bontal.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce

@@ -486,8 +486,6 @@ http://bt.publicvm.com:8080/announce
 
 http://bt.rghost.net/announce
 
-http://bt.xcty.eu.org:2095/announce
-
 http://bt.zlofenix.org:81/announce
 
 http://bt02.nnm-club.cc:2710/announce
@@ -1556,8 +1554,6 @@ https://tr.zukizuki.org/announce
 
 https://track3r.site/announce
 
-https://tracker-zhuqiy.dgj055.icu/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 
 https://tracker.4.babico.name.tr/announce
@@ -2028,6 +2024,8 @@ udp://bananas.space:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://banzaitracker.com:2710/announce
+
 udp://bedro.cloud:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
@@ -2085,8 +2083,6 @@ udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
-udp://edgev.duckdns.org:6969/announce
 
 udp://elementsbrowser.com:6969/announce
 
@@ -2435,6 +2431,8 @@ udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
+
+udp://tracker.okade.pro:1337/announce
 
 udp://tracker.ololosh.space:6969/announce
 

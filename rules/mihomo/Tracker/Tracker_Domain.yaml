@@ -135,7 +135,6 @@ payload:
   - docker-tracker-production.up.railway.app
   - download.nerocloud.me
   - ds32244.seedhost.eu
-  - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - echostar.ddnsfree.com
   - edgev.duckdns.org
   - ehtracker.org
@@ -157,6 +156,7 @@ payload:
   - frp.v2fy.com00
   - ftp.pet
   - fxtt.ru
+  - gargoyleperch.de
   - grifon.info
   - gwp2-v19.rinet.ru
   - h4.trakx.nibba.trade

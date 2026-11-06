@@ -204,8 +204,6 @@ http://220.130.15.27:6969/announce
 
 http://220.130.15.30:6969/announce
 
-http://222.216.138.251:6969/announce
-
 http://34.89.30.59/announce
 
 http://34.89.30.59:2710/announce
@@ -1786,8 +1784,6 @@ udp://104.143.10.186:8000/announce
 
 udp://107.175.221.194:6969/announce
 
-udp://107.189.2.131:1337/announce
-
 udp://109.201.134.183:80/announce
 
 udp://11.rarbg.com:80/announce
@@ -1801,8 +1797,6 @@ udp://135.125.198.235:1984/announce
 udp://135.125.236.64:6969/announce
 
 udp://143.20.154.228:42069/announce
-
-udp://143.20.154.229:42069/announce
 
 udp://144.91.88.22:6969/announce
 
@@ -1840,6 +1834,8 @@ udp://178.170.48.154:1337/announce
 
 udp://178.239.19.29:80/announce
 
+udp://180.131.145.175:6969/announce
+
 udp://185.102.219.163:6969/announce
 
 udp://185.121.168.96:1337/announce
@@ -1870,11 +1866,11 @@ udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
 
-udp://208.83.20.20:6969/announce
-
 udp://209.126.11.233:6969/announce
 
 udp://209.141.59.25:6969/announce
+
+udp://211.75.205.187:80/announce
 
 udp://211.75.205.188:6969/announce
 
@@ -1883,6 +1879,8 @@ udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 
 udp://217.30.10.77:6969/announce
+
+udp://222.216.138.251:6969/announce
 
 udp://23.137.251.45:6969/announce
 
@@ -1896,8 +1894,6 @@ udp://31.56.179.159:6969/announce
 
 udp://31.59.141.120:6969/announce
 
-udp://34.66.57.33:1337/announce
-
 udp://34.66.57.33:80/announce
 
 udp://37.187.111.136:6969/announce
@@ -1905,8 +1901,6 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 
 udp://37.59.48.81:6969/announce
-
-udp://38.180.157.12:2715/announce
 
 udp://43.154.112.29:17272/announce
 
@@ -1953,6 +1947,8 @@ udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 
 udp://60.172.236.18:6969/announce
+
+udp://65.109.28.17:6969/announce
 
 udp://65.109.28.33:6969/announce
 
@@ -2083,6 +2079,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://devops.gay:6969/announce
 
 udp://dht.bt251.com:6969/announce
+
+udp://discover.curiousfacts.blog:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 

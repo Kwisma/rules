@@ -105,7 +105,6 @@ payload:
   - bz.tracker.bz
   - camera.lei001.com
   - canardscitrons.nohost.me
-  - caramelo.ddns.net
   - carapax.net
   - carbon-bonsai-621.appspot.com
   - carr.codes
@@ -181,7 +180,6 @@ payload:
   - ipv6.govt.hu
   - ipv6.rer.lol
   - ipv6.tracker.harry.lu
-  - ipv6.tracker.m-team.cc
   - irrenhaus.dyndns.dk
   - joczo.duckdns.org
   - jp.moeweb.pw
@@ -195,6 +193,7 @@ payload:
   - kokodayo.site
   - kolankoalastree.newtrackon.co.nz
   - kolanopentracker.airdns.org
+  - kyu.i2p
   - laestrygonian.ooguy.com
   - laxclax.ddns.net00
   - laze.cc
@@ -237,7 +236,6 @@ payload:
   - ns3109441.mypdns.org
   - ns575949.ip-51-222-82.net
   - nyaa.tracker.wf
-  - nyaaplus.i2p
   - o-unkusrx.cloud.okteto.net
   - obey.torrentonline.cc
   - oh.fuuuuuck.com
@@ -264,13 +262,11 @@ payload:
   - opentracker.acgnx.se
   - opentracker.cc
   - opentracker.dg2.i2p
-  - opentracker.eeptorrent.i2p
   - opentracker.fattydove.i2p
   - opentracker.i2p.rocks
   - opentracker.io
   - opentracker.lain.moscow
   - opentracker.r4sas.i2p
-  - opentracker.simp.i2p
   - opentracker.skank.i2p
   - opentracker.xyz
   - opentracker2.lain.moscow
@@ -291,7 +287,6 @@ payload:
   - public.publictracker.xyz
   - public.tracker.vraphim.com
   - pybittrack.retiolus.net
-  - qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p
   - qot.abiir.top
   - qtstm32fan.ru
   - region.nl1.privex.cc
@@ -329,7 +324,6 @@ payload:
   - shubt.net
   - siambit.com
   - siambit.org
-  - sigmatracker.i2p
   - siwserver.duckdns.org
   - slicie.icon256.com
   - smtp-relay.odysseylabel.com.au
@@ -356,12 +350,11 @@ payload:
   - t.zerg.pw
   - t1.chfs.ch
   - t1.hloli.org
-  - t1.leech.ie
+  - t1.itrus.su
   - t1.pow7.com
   - t1.tokhmi.xyz
-  - t2.leech.ie
+  - t2.itrus.su
   - t2.pow7.com
-  - t3.leech.ie
   - taciturn-shadow.spb.ru
   - tamas3.ynh.fr
   - thagoat.rocks
@@ -593,7 +586,6 @@ payload:
   - tracker.nyaa.net
   - tracker.nyaa.tk
   - tracker.nyaa.vc
-  - tracker.nyaa2p.i2p
   - tracker.nyacat.pw
   - tracker.okade.pro
   - tracker.ololosh.space
@@ -720,6 +712,7 @@ payload:
   - tracker3.torrentino.com
   - tracker4.itzmx.com
   - tracker810.xyz
+  - trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p
   - trackers.ibzu.me
   - trackers.mlsub.net
   - trackers.ydns.eu
@@ -737,7 +730,6 @@ payload:
   - udp-tracker.adgk.net
   - udp.tracker.linvk.com
   - udp1.torrust-tracker-demo.com
-  - ulfbrueggemann.no-ip.org
   - unknownsite.de
   - uploads.gamecoast.net
   - uraniumhexafluori.de

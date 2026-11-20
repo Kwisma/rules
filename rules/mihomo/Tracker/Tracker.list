@@ -36,7 +36,7 @@ http://116.9.207.226:6969/announce
 
 http://119.28.71.45:8080/announce
 
-http://123.245.62.62:6969/announce
+http://123.245.62.58:6969/announce
 
 http://129.146.193.240:6699/announce
 
@@ -146,7 +146,7 @@ http://189.0.196.51:6969/announce
 
 http://189.110.233.96:6969/announce
 
-http://190.22.55.78:1337/announce
+http://190.22.49.98:1337/announce
 
 http://192.3.165.191:6969/announce
 
@@ -180,9 +180,9 @@ http://211.20.122.47:6969/announce
 
 http://211.22.29.93/announce
 
-http://211.75.205.187:6969/announce
-
 http://211.75.205.188/announce
+
+http://211.75.205.188:6969/announce
 
 http://211.75.29.254:6969/announce
 
@@ -245,8 +245,6 @@ http://45.63.111.135:8080/announce
 http://45.67.35.111:6969/announce
 
 http://46.17.46.112:8080/announce
-
-http://46.188.15.49:6969/announce
 
 http://46.231.241.43:6969/announce
 
@@ -697,8 +695,6 @@ http://opentracker.fattydove.i2p/a
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.io/announce
-
-http://opentracker.lain.moscow:6969/announce
 
 http://opentracker.r4sas.i2p/a
 
@@ -1632,11 +1628,11 @@ udp://11.rarbg.com:80/announce
 
 udp://119.28.71.45:8080/announce
 
-udp://123.245.62.62:6969/announce
-
 udp://135.125.106.92:6969/announce
 
 udp://135.125.198.235:1984/announce
+
+udp://143.20.154.228:42069/announce
 
 udp://143.20.154.229:42069/announce
 
@@ -1690,7 +1686,9 @@ udp://185.230.4.150:1337/announce
 
 udp://185.44.82.25:1337/announce
 
-udp://190.22.55.78:1337/announce
+udp://185.87.45.163:6969/announce
+
+udp://190.22.49.98:1337/announce
 
 udp://192.95.46.115:6969/announce
 
@@ -1714,7 +1712,7 @@ udp://209.126.11.233:6969/announce
 
 udp://209.141.59.25:6969/announce
 
-udp://211.75.205.187:6969/announce
+udp://211.75.205.188:6969/announce
 
 udp://211.75.205.188:80/announce
 
@@ -1744,11 +1742,11 @@ udp://37.187.95.112:6969/announce
 
 udp://37.59.48.81:6969/announce
 
+udp://38.180.157.12:2715/announce
+
 udp://43.250.54.126:6969/announce
 
 udp://45.137.199.107:6969/announce
-
-udp://45.38.170.167:6969/announce
 
 udp://45.9.60.30:6969/announce
 
@@ -1807,8 +1805,6 @@ udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
 
 udp://91.211.5.21:6969/announce
-
-udp://91.216.110.53:451/announce
 
 udp://93.104.214.40:6969/announce
 
@@ -2313,6 +2309,8 @@ udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sela.st:6969/announce
 
 udp://tracker.sharebro.in:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
